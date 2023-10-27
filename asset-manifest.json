@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.07782c4c.css",
+    "main.js": "/static/js/main.e9da75ed.js",
+    "static/js/787.6d24cc3c.chunk.js": "/static/js/787.6d24cc3c.chunk.js",
+    "static/media/top-food.svg": "/static/media/top-food.384057d3fd5154bb9f3a133bad70e3a5.svg",
+    "static/media/delivery-man.svg": "/static/media/delivery-man.9a7ecb682383b4f41e7357b41fa3b117.svg",
+    "static/media/mobile.webp": "/static/media/mobile.57ecbe01422877502c86.webp",
+    "static/media/about-image.webp": "/static/media/about-image.15847d0a5b2181be1feb.webp",
+    "static/media/FoodImage.webp": "/static/media/FoodImage.ccbc8a18b3ce6a6bf1f5.webp",
+    "static/media/dish2.webp": "/static/media/dish2.9643c1a9b131d70136a7.webp",
+    "static/media/dish5.webp": "/static/media/dish5.cf729eb5a514594d5e93.webp",
+    "static/media/dish3.webp": "/static/media/dish3.a9a5536ad1ff07749fdd.webp",
+    "static/media/dish4.webp": "/static/media/dish4.11342526657d4df1fc05.webp",
+    "static/media/dish6.webp": "/static/media/dish6.45f99e08703710e4eca8.webp",
+    "static/media/dish1.webp": "/static/media/dish1.f4abe2fd91555e067f2a.webp",
+    "static/media/Logo.svg": "/static/media/Logo.23f9ac17e7d928833f8292c1566bd213.svg",
+    "static/media/hamburger.svg": "/static/media/hamburger.9d6855e1535bd7831a905fe10a5ca642.svg",
+    "index.html": "/index.html",
+    "main.07782c4c.css.map": "/static/css/main.07782c4c.css.map",
+    "main.e9da75ed.js.map": "/static/js/main.e9da75ed.js.map",
+    "787.6d24cc3c.chunk.js.map": "/static/js/787.6d24cc3c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07782c4c.css",
+    "static/js/main.e9da75ed.js"
+  ]
+}
